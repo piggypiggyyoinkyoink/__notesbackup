@@ -18,7 +18,7 @@
 ## Theory of Computational Bullshit
 > Models of Computation: 🟠 (up to and including LTL)
 
-> Algorithms and Complexity I: 🟠 (up to Dynamic Programming and Graph Matching Problem)
+> Algorithms and Complexity I: ✅ (not fully detailed, but basic outline)
 
 > Algorithms and Complexity II: ❌
 
