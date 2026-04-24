@@ -13,7 +13,7 @@
 ## Programming Paradigms
 > Functional Programming: ❌ - see https://github.com/FaintLocket424/HaskellNotes for some goated haskell notes
 
-> OOP: ❌
+> OOP: ✅
 
 ## Theory of Computational Bullshit
 > Models of Computation: 🟠 (up to and including LTL)
