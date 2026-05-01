@@ -1,7 +1,7 @@
 # Y2 Revision Notes Progress
 
 ## Data Science
-> Stats: ❌
+> Stats: ✅
 
 > Computer Graphics: ✅ (theory only, fuck three.js)  
 
