@@ -24,4 +24,4 @@
 
 #
 
-holy fuck i have a long way to go and theres only 3 weeks before exams start, am i cooked?
+i am actually cooked
