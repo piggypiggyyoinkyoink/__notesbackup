@@ -11,7 +11,7 @@
 > Distributed Systems: ❌  
 
 ## Programming Paradigms
-> Functional Programming: ❌ - see https://github.com/FaintLocket424/HaskellNotes for some goated haskell notes
+> Functional Programming: 🟠 - FUCK HASKELL IT'S ALL NONSENSE, see https://github.com/FaintLocket424/HaskellNotes for some (unfinished) haskell notes
 
 > OOP: ✅
 
