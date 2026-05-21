@@ -8,10 +8,10 @@
 ## Networks and Systems
 > Databases: ✅
 
-> Distributed Systems: ❌  
+> Distributed Systems: ✅  
 
 ## Programming Paradigms
-> Functional Programming: 🟠 - FUCK HASKELL IT'S ALL NONSENSE, see https://github.com/FaintLocket424/HaskellNotes for some (unfinished) haskell notes
+> Functional Programming: 🟠 - see https://github.com/FaintLocket424/HaskellNotes for some (unfinished) haskell notes
 
 > OOP: ✅
 
@@ -24,4 +24,4 @@
 
 #
 
-i am actually cooked
+what the fuck is a theory of computation??
