@@ -16,7 +16,7 @@
 > OOP: ✅
 
 ## Theory of Computational Bullshit
-> Models of Computation: 🟠 (up to and including LTL)
+> Models of Computation: 🟠 (up to and including Turing Machines)
 
 > Algorithms and Complexity I: ✅ (not fully detailed, but basic outline)
 
