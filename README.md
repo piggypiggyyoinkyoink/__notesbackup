@@ -20,7 +20,7 @@
 
 > Algorithms and Complexity I: ✅ (not fully detailed, but basic outline)
 
-> Algorithms and Complexity II: 🟠 (only P/NP stuff)
+> Algorithms and Complexity II: 🟠 (all except flow networks)
 
 #
 
